@@ -283,10 +283,9 @@
 
 - [Neutron-Toolchains/clang-build-catalogue](https://github.com/Neutron-Toolchains/clang-build-catalogue) - Uhh, a repo where Neutron clang tc builds will be released and build details would be pushed
 - [nicoth-in/Dark-Space-Theme](https://github.com/nicoth-in/Dark-Space-Theme) - Firefox Theme
-- [erenvly/zix](https://github.com/erenvly/zix) - A fast, lightweight, and powerful Zig version manager.
-- [erenvly/zig-sysinfo](https://github.com/erenvly/zig-sysinfo) - A library that retrieves system information
+- [lumexren/zix](https://github.com/lumexren/zix) - A fast, lightweight, and powerful Zig version manager.
+- [lumexren/zig-sysinfo](https://github.com/lumexren/zig-sysinfo) - A library that retrieves system information
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [erenvly/zig-waybar-contrib](https://github.com/erenvly/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 
 ## PHP 
 
@@ -302,6 +301,7 @@
 
 ## Python 
 
+- [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -335,6 +335,7 @@
 
 ## Rust 
 
+- [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -508,6 +509,7 @@
 - [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) - Qt 6 for Zig
 - [mepley1/disk-usage-waybar](https://github.com/mepley1/disk-usage-waybar) - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
+- [lumexren/zig-waybar-contrib](https://github.com/lumexren/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
@@ -515,5 +517,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [erenvly](https://github.com/erenvly) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [lumexren](https://github.com/lumexren) has waived all copyright and related or neighboring rights to this work.
 
