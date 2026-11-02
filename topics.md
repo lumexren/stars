@@ -263,7 +263,7 @@
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CachyOS/New-Cli-Installer](https://github.com/CachyOS/New-Cli-Installer) - CachyOS CLI Installer
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [erenvly/zig-waybar-contrib](https://github.com/erenvly/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+- [lumexren/zig-waybar-contrib](https://github.com/lumexren/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 
 ## artificial-intelligence 
 
@@ -772,7 +772,7 @@
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is a fast, minimal tool for fetching system information, written in Rust.
 - [bus1/dbus-broker](https://github.com/bus1/dbus-broker) - Linux D-Bus Message Broker
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [erenvly/zig-waybar-contrib](https://github.com/erenvly/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+- [lumexren/zig-waybar-contrib](https://github.com/lumexren/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -967,6 +967,8 @@
 
 ## others 
 
+- [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
+- [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
 - [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme) - Layan-gtk-theme
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy aims for sensible, balanced and intuitive defaults for the KDE Plasma desktop; yet also offers highly customizable theming.
@@ -1494,13 +1496,13 @@
 - [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation
 - [ianprime0509/zig-gobject](https://github.com/ianprime0509/zig-gobject) - GObject bindings for Zig using GObject introspection
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [erenvly/zix](https://github.com/erenvly/zix) - A fast, lightweight, and powerful Zig version manager.
-- [erenvly/zig-sysinfo](https://github.com/erenvly/zig-sysinfo) - A library that retrieves system information
+- [lumexren/zix](https://github.com/lumexren/zix) - A fast, lightweight, and powerful Zig version manager.
+- [lumexren/zig-sysinfo](https://github.com/lumexren/zig-sysinfo) - A library that retrieves system information
 - [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - ⚡ POSIX-compliant fast and simple zig version manager (zvm)
 - [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) - Qt 6 for Zig
 - [mepley1/disk-usage-waybar](https://github.com/mepley1/disk-usage-waybar) - A storage monitoring Waybar module. Summarizes disk usage for each mounted fs.
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
-- [erenvly/zig-waybar-contrib](https://github.com/erenvly/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+- [lumexren/zig-waybar-contrib](https://github.com/lumexren/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## zsh 
@@ -1513,5 +1515,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [erenvly](https://github.com/erenvly) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [lumexren](https://github.com/lumexren) has waived all copyright and related or neighboring rights to this work.
 
