@@ -66,6 +66,7 @@
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
@@ -283,6 +284,7 @@
 
 ## automation 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [Nigel1992/Waydroid-Advanced-Manager](https://github.com/Nigel1992/Waydroid-Advanced-Manager) - 🚀 The ultimate all-in-one Bash CLI toolkit for Waydroid — start/stop, install APKs, manage apps, transfer files, capture screenshots, record screen, view logcat, freeze bloatware, change display setti
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -296,7 +298,7 @@
 ## awesome-list 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
 ## backend 
@@ -426,7 +428,7 @@
 
 ## design 
 
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 
 ## developer-tools 
@@ -585,8 +587,13 @@
 
 ## github 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+## github-api 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## go 
 
@@ -695,6 +702,7 @@
 
 ## javascript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
@@ -1409,7 +1417,7 @@
 
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 
 ## video 
 
@@ -1479,7 +1487,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
-- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 900+ apps that embrace the WinUI Design
+- [jishnu-kv/WinUI-Apps-List](https://github.com/jishnu-kv/WinUI-Apps-List) - A curated collection of over 1000+ apps that embrace the WinUI Design
 - [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
 ## workflow 
