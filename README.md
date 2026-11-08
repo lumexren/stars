@@ -298,7 +298,6 @@
 
 ## PowerShell 
 
-- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) - Script to build possibly the most trimmed-down Windows 11 experience.
 
