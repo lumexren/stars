@@ -61,6 +61,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
 - [git](#git)
@@ -572,7 +573,12 @@
 
 ## game-engine 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [VertexF/Void](https://github.com/VertexF/Void) - a 3D vulkan game engine which is leveraging new graphics techniques to make a game.
+
+## gamedev 
+
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 
 ## games 
 
@@ -760,6 +766,7 @@
 
 ## linux 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
@@ -875,6 +882,7 @@
 
 ## minecraft 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
@@ -1264,6 +1272,7 @@
 
 ## rust 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
