@@ -1007,6 +1007,7 @@
 
 ## others 
 
+- [sddhruvo/GameShelf](https://github.com/sddhruvo/GameShelf) - 
 - [TRGamer-tech/FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) - A modern, powerful, and intuitive Windows task scheduling application built with WinUI 3 and .NET 8.
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
 - [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
