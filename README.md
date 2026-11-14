@@ -228,6 +228,7 @@
 
 ## Kotlin 
 
+- [sddhruvo/GameShelf](https://github.com/sddhruvo/GameShelf) - 
 - [fahadalijaved/OneOS](https://github.com/fahadalijaved/OneOS) - Another Android, next to One UI: switch a rooted Samsung Galaxy into another Android system and back, without flashing.
 - [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
 - [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
