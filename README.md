@@ -441,6 +441,7 @@
 
 ## TypeScript 
 
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
