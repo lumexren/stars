@@ -1069,7 +1069,7 @@
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [Jeffrey-Sardina/liberated-systemd](https://github.com/Jeffrey-Sardina/liberated-systemd) - Liberated systemd -- no surveillance. Ever.
-- [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
+- [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova) - Kernel-based Android Root Solution & KPM
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard) - A lightweight LSM (Linux Security Module) for the Android kernel, designed to block unauthorized writes to critical partitions/device nodes at the system level.
 - [Akylas/EnforceDoze](https://github.com/Akylas/EnforceDoze) - Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life
