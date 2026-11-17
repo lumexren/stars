@@ -394,6 +394,7 @@
 
 ## Shell 
 
+- [lumexren/vulcanium](https://github.com/lumexren/vulcanium) - Chromium fork/patch-set for native Linux Wayland + Vulkan rendering and VkVideo hardware decoding/encoding (AI-assisted)
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
 - [bearinmindcat/ungoogled-chromium-android](https://github.com/bearinmindcat/ungoogled-chromium-android) - Android build for ungoogled-chromium
