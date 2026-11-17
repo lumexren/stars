@@ -1016,6 +1016,7 @@
 
 ## others 
 
+- [lumexren/vulcanium](https://github.com/lumexren/vulcanium) - Chromium fork/patch-set for native Linux Wayland + Vulkan rendering and VkVideo hardware decoding/encoding (AI-assisted)
 - [sddhruvo/GameShelf](https://github.com/sddhruvo/GameShelf) - 
 - [TRGamer-tech/FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) - A modern, powerful, and intuitive Windows task scheduling application built with WinUI 3 and .NET 8.
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
