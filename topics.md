@@ -145,6 +145,7 @@
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
@@ -1016,6 +1017,7 @@
 
 ## others 
 
+- [lumexren/sysagent](https://github.com/lumexren/sysagent) - Autonomous, self-evolving Linux system daemon and AI assistant powered by a hybrid Cloud + Local Neural architecture
 - [lumexren/vulcanium](https://github.com/lumexren/vulcanium) - Chromium fork/patch-set for native Linux Wayland + Vulkan rendering and VkVideo hardware decoding/encoding (AI-assisted)
 - [sddhruvo/GameShelf](https://github.com/sddhruvo/GameShelf) - 
 - [TRGamer-tech/FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) - A modern, powerful, and intuitive Windows task scheduling application built with WinUI 3 and .NET 8.
@@ -1381,6 +1383,10 @@
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
+
+## static-site-generator 
+
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 
 ## svelte 
 
