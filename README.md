@@ -305,6 +305,7 @@
 
 ## Python 
 
+- [lumexren/sysagent](https://github.com/lumexren/sysagent) - Autonomous, self-evolving Linux system daemon and AI assistant powered by a hybrid Cloud + Local Neural architecture
 - [antoniaci/blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
