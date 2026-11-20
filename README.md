@@ -305,6 +305,7 @@
 
 ## Python 
 
+- [Muddyblack/tidesi](https://github.com/Muddyblack/tidesi) - tideSI (tidesi) – AI usage & quota widget – Yeah, I know yet another SI/AI usage widget, but I wanted one for my own NixOS setup that just worked the way I needed it to. If you're in the same boat, he
 - [lumexren/sysagent](https://github.com/lumexren/sysagent) - Autonomous, self-evolving Linux system daemon and AI assistant powered by a hybrid Cloud + Local Neural architecture
 - [antoniaci/blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [p2r3/Arachnidium](https://github.com/p2r3/Arachnidium) - Self-hosted HTTP optimization/compression proxy
