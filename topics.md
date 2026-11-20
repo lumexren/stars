@@ -357,6 +357,7 @@
 
 ## claude 
 
+- [Muddyblack/tidesi](https://github.com/Muddyblack/tidesi) - tideSI (tidesi) – AI usage & quota widget – Yeah, I know yet another SI/AI usage widget, but I wanted one for my own NixOS setup that just worked the way I needed it to. If you're in the same boat, he
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [MegalithOfficial/Chatalia](https://github.com/MegalithOfficial/Chatalia) - A modern, local-first AI chat interface built with Tauri, React, and Rust. Secure, private, and supports multiple LLM providers. 🚀
 
@@ -833,6 +834,7 @@
 
 ## macos 
 
+- [Muddyblack/tidesi](https://github.com/Muddyblack/tidesi) - tideSI (tidesi) – AI usage & quota widget – Yeah, I know yet another SI/AI usage widget, but I wanted one for my own NixOS setup that just worked the way I needed it to. If you're in the same boat, he
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
@@ -1502,6 +1504,7 @@
 
 ## windows 
 
+- [Muddyblack/tidesi](https://github.com/Muddyblack/tidesi) - tideSI (tidesi) – AI usage & quota widget – Yeah, I know yet another SI/AI usage widget, but I wanted one for my own NixOS setup that just worked the way I needed it to. If you're in the same boat, he
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is an advanced system tuning engine built with WinUI 3 and .NET, designed to debloat, optimize, and maximize performance on Windows 10 and 11.
