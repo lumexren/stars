@@ -219,7 +219,7 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [adil192/no_more_background](https://github.com/adil192/no_more_background) - A fire-and-forget program to stop Android apps from running in the background.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
+- [harusaw/CoreTaskOptimizer](https://github.com/harusaw/CoreTaskOptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
@@ -1069,7 +1069,7 @@
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [wrymt/darkly-gtk](https://github.com/wrymt/darkly-gtk) - Darkly GTK theme
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - Forked from the lightly theme, this style brings a fresh and unique look to your applications
-- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
+- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implementation using NVIDIA's NVDEC
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [nicoth-in/Dark-Space-Theme](https://github.com/nicoth-in/Dark-Space-Theme) - Firefox Theme
