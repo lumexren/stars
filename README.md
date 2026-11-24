@@ -337,6 +337,7 @@
 
 ## QML 
 
+- [lumexren/plasma-minimal-osd](https://github.com/lumexren/plasma-minimal-osd) - 
 - [lumexren/plasma-nm-networkd](https://github.com/lumexren/plasma-nm-networkd) - 
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [gerritdevriese/kzones](https://github.com/gerritdevriese/kzones) - KDE KWin Script for snapping windows into zones
@@ -397,6 +398,9 @@
 
 ## Shell 
 
+- [lumexren/orangefox-flasher](https://github.com/lumexren/orangefox-flasher) - 
+- [lumexren/animecix-desktop-aur](https://github.com/lumexren/animecix-desktop-aur) - 
+- [lumexren/vscodium-code](https://github.com/lumexren/vscodium-code) - 
 - [lumexren/vulcanium](https://github.com/lumexren/vulcanium) - Chromium fork/patch-set for native Linux Wayland + Vulkan rendering and VkVideo hardware decoding/encoding (AI-assisted)
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
@@ -404,7 +408,7 @@
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [harusaw/CoreTaskOptimizer](https://github.com/harusaw/CoreTaskOptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
+- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
 - [NotZeetaa/YAKT](https://github.com/NotZeetaa/YAKT) - Yet Another Kernel Tweaker. A Magisk module to Tweak your Kernel parameters
 - [reiryuki/One-UI-Core-Magisk-Module](https://github.com/reiryuki/One-UI-Core-Magisk-Module) - 
 - [Nigel1992/Waydroid-Advanced-Manager](https://github.com/Nigel1992/Waydroid-Advanced-Manager) - 🚀 The ultimate all-in-one Bash CLI toolkit for Waydroid — start/stop, install APKs, manage apps, transfer files, capture screenshots, record screen, view logcat, freeze bloatware, change display setti
@@ -510,6 +514,8 @@
 
 ## Zig 
 
+- [lumexren/plume](https://github.com/lumexren/plume) - 
+- [lumexren/vergebar](https://github.com/lumexren/vergebar) - High-performance, Waybar-compatible status bar for Wayland in Zig with GTK4
 - [zigtools/lsp-kit](https://github.com/zigtools/lsp-kit) - The necessary building blocks to develop LSP implementations in Zig.
 - [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
