@@ -62,7 +62,6 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
-- [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
 - [git](#git)
@@ -219,7 +218,7 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [adil192/no_more_background](https://github.com/adil192/no_more_background) - A fire-and-forget program to stop Android apps from running in the background.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [harusaw/CoreTaskOptimizer](https://github.com/harusaw/CoreTaskOptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
+- [c0d3h01/CoreTaskOptimizer](https://github.com/c0d3h01/CoreTaskOptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [FeDeveloper95/Game-Hub](https://github.com/FeDeveloper95/Game-Hub) - A simple launcher with material 3 expressive ui for all your games.
@@ -586,12 +585,7 @@
 
 ## game-engine 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [VertexF/Void](https://github.com/VertexF/Void) - a 3D vulkan game engine which is leveraging new graphics techniques to make a game.
-
-## gamedev 
-
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 
 ## games 
 
@@ -782,7 +776,6 @@
 ## linux 
 
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
@@ -902,7 +895,6 @@
 
 ## minecraft 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [Wyze3306/BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Run Minecraft Bedrock for Windows seamlessly on Linux.
 - [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft
@@ -1031,6 +1023,12 @@
 
 ## others 
 
+- [lumexren/orangefox-flasher](https://github.com/lumexren/orangefox-flasher) - 
+- [lumexren/animecix-desktop-aur](https://github.com/lumexren/animecix-desktop-aur) - 
+- [lumexren/vscodium-code](https://github.com/lumexren/vscodium-code) - 
+- [lumexren/plume](https://github.com/lumexren/plume) - 
+- [lumexren/plasma-minimal-osd](https://github.com/lumexren/plasma-minimal-osd) - 
+- [lumexren/vergebar](https://github.com/lumexren/vergebar) - High-performance, Waybar-compatible status bar for Wayland in Zig with GTK4
 - [lumexren/plasma-nm-networkd](https://github.com/lumexren/plasma-nm-networkd) - 
 - [lumexren/sysagent](https://github.com/lumexren/sysagent) - Autonomous, self-evolving Linux system daemon and AI assistant powered by a hybrid Cloud + Local Neural architecture
 - [lumexren/vulcanium](https://github.com/lumexren/vulcanium) - Chromium fork/patch-set for native Linux Wayland + Vulkan rendering and VkVideo hardware decoding/encoding (AI-assisted)
@@ -1306,7 +1304,6 @@
 ## rust 
 
 - [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
