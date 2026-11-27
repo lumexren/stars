@@ -45,6 +45,7 @@
 
 ## C 
 
+- [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [RiProG-id/Better-Kernel-Tweaks](https://github.com/RiProG-id/Better-Kernel-Tweaks) - The optimization module is designed to improve the efficiency of the Android kernel, ensuring increased stability.
@@ -143,7 +144,6 @@
 - [adil192/no_more_background](https://github.com/adil192/no_more_background) - A fire-and-forget program to stop Android apps from running in the background.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Private Gecko browser with containers, web apps, Tor/VPN, and on-device search
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -155,6 +155,7 @@
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, HlS(m3u8), FTP and ed2k. Cross-platform, built with Golang and Flutter.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -376,7 +377,7 @@
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is a fast, minimal tool for fetching system information, written in Rust.
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store, hooking binder
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
