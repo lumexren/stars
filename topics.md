@@ -178,7 +178,7 @@
 
 ## agent-skills 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 
 ## agents 
 
@@ -200,7 +200,7 @@
 
 ## ai-agents 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - high performance server toolbox app & server written in Flutter & Rust.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 
@@ -210,6 +210,7 @@
 
 ## android 
 
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [fahadalijaved/OneOS](https://github.com/fahadalijaved/OneOS) - Another Android, next to One UI: switch a rooted Samsung Galaxy into another Android system and back, without flashing.
 - [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
 - [iTomKo/Outify](https://github.com/iTomKo/Outify) - Third party open source Android Spotify client with Material 3 using librespot Rust
@@ -371,7 +372,7 @@
 
 ## claude-code 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 
 ## cli 
@@ -455,7 +456,7 @@
 
 ## developer-tools 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
@@ -883,13 +884,13 @@
 
 ## mcp 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## mcp-server 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis) - Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz) - Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API
@@ -981,7 +982,7 @@
 
 ## nodejs 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -1256,7 +1257,7 @@
 
 ## python 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [antoniaci/blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -1309,11 +1310,12 @@
 
 ## ruby 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 
 ## rust 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -1461,7 +1463,7 @@
 
 ## typescript 
 
-- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+- [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) - Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#
 - [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
